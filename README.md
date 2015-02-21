@@ -7,8 +7,7 @@ Installing
 ----------
 
 ```bash
-$ git clone https://github.com/airamrguez/es6-webpack-boilerplate
-$ mv es6-webpack-boilerplate YourProjectName
+$ git clone https://github.com/airamrguez/es6-webpack-boilerplate YourProjectName
 $ cd YourProjectName
 $ npm install
 ```
