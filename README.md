@@ -3,6 +3,13 @@ ES6 and webpack boilerplate.
 
 Simple JavaScript boilerplate for [babelify](https://github.com/babel/babelify) and [webpack](https://github.com/webpack/webpack).
 
+Tools
+-----
+
+- Babel
+- Webpack
+- JSHint
+
 Installing
 ----------
 
