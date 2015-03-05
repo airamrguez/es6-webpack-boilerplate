@@ -9,6 +9,7 @@ Tools
 - Babel
 - Webpack
 - JSHint
+- Jest
 
 Installing
 ----------
@@ -24,4 +25,11 @@ Building
 
 ```bash
 $ npm start
+```
+
+Testing
+-------
+
+```bash
+$ npm test
 ```
